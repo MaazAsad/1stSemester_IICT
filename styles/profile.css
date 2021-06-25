@@ -1,0 +1,54 @@
+body{
+    background-image: url(../img/back1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:     cover;
+}
+
+
+
+td.t1_1{
+    text-align: center;
+}
+
+
+td.pic{
+     background-image: url(../img/portrait.jpeg);
+     background-position: center center;
+     background-size:     cover;
+     border-radius: 75%;
+     width: 200px;
+     height:  100px;
+     background-color:rgba(50, 50, 50, 0.8);
+
+}
+
+td.info{
+    color: white;
+    width: 200px;
+    height:  200px;
+    vertical-align: top;
+    background-color:rgba(50, 50, 50, 0.7);
+
+}
+
+td.CV{
+    vertical-align: top;
+    color: white;
+    line-height: 1.5em;
+    width: 1000px;
+    height:  600px;
+    opacity: 0.8;
+    background-image: url(../img/aboutback.jpg);
+
+
+}
+
+p.CVtext{
+    opacity: 1;
+}
+div.foot{
+    font-size: 10px;
+    color: white;
+    vertical-align: bottom;
+}

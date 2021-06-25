@@ -1,0 +1,59 @@
+
+body{
+    background-image: url(../img/back1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:     cover;
+
+}
+
+
+    table.t1 {
+        align: center;
+        width: 100%;
+        background-color: #f1f1c1;
+        margin-left:auto;
+        margin-right:auto;
+
+    }
+
+    table.center {
+        font-weight: bold;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 20%;
+        border: 2px solid white;
+        background-color:rgba(50, 50, 50, 0.5);
+
+
+
+
+}
+td.t1_1{
+    text-align: center;
+}
+
+
+
+td.centertext{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 4px 4px 4px #000000;
+
+}
+
+td.rcu{
+    color: white;
+    text-align: center;
+    text-shadow: 4px 4px 4px #000000;
+    font-size: 12px;
+}
+
+div.foot{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 10px;
+    color: white;
+}

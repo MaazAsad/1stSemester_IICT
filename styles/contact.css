@@ -1,0 +1,61 @@
+body{
+    background-image: url(../img/back1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+    table.t1 {
+
+        width: 100%;
+        background-color: #f1f1c1;
+        margin-left:35%;
+        margin-right:auto;
+
+    }
+
+
+td.t1_1{
+    text-align: center;
+}
+
+table.contact{
+    width:40%;
+    margin-top: 10%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:rgba(80, 80, 80, 0.6);
+}
+td.head{
+
+    color: white;
+}
+img.gmail{
+    width:75px;
+    height: 75px;
+}
+
+img.yt{
+    width:85px;
+    height: 85px;
+}
+img.ig{
+
+    width:60px;
+    height: 60px;
+}
+
+img.twt{
+    width:75px;
+    height: 75px;
+}
+
+
+div.foot{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 10px;
+    color: white;
+}

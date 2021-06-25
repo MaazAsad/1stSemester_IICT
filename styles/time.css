@@ -1,0 +1,49 @@
+body{
+    background-image: url(../img/backtt.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:     cover;
+}
+
+
+    table.t1 {
+        align: center;
+
+    }
+
+}
+td.t1_1{
+    text-align: center;
+}
+
+
+
+
+div.foot{
+    font-size: 10px;
+    color: white;
+    vertical-align: bottom;
+}
+
+table.timetable{
+    margin-left: 5%;
+    background-color: white;
+    border: 2px solid black;
+    border-collapse: collapse;
+    align-self: center;
+    width: 90%;
+    height: 600px;
+
+    padding: 5px;
+    table-layout:auto;
+    text-align: center;
+    background-color:rgba(180, 180, 180, 0.8);
+
+
+}
+
+ th.x, td.x {
+border: 1px solid black;
+border-collapse: collapse;
+
+}
